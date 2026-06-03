@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "DenzelCYBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "paradiseS1.aternos.me",
     "port": 40166,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
